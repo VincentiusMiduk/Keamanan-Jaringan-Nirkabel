@@ -22,8 +22,8 @@ Fungsi dari komputer pribadi ini kemudian dikenal dengan istilah authentication 
 ### WPA/PSK
  WPA-PSK (Wi-Fi Protected Access – Pre Shared Key) adalah pengamanan jaringan nirkabel dengan menggunakan metoda WPA-PSK jika tidak ada authentikasi server yang digunakan. Dengan demikian access point dapat dijalankan dengan mode WPA tanpa menggunakan bantuan komputer lain sebagai server. Cara mengkonfigurasikannya juga cukup sederhana. 
  
-### WPA2
-WPA2 adalah sertifikasi produk yang tersedia lewat Wi-Fi Alliance. Sertifikasi tersebut hanya menyatakan bahwa peralatan wireless yang kompatibel dengan standar IEEE 802.11i. Sertifikasi produk (WPA2) yang secara resmi menggantikan wired equivalent privacy (WEP) dan fitur keamanan lain yang asli standar IEEE 802.11.
+ ### WPA2
+ WPA2 adalah sertifikasi produk yang tersedia lewat Wi-Fi Alliance. Sertifikasi tersebut hanya menyatakan bahwa peralatan wireless yang kompatibel dengan standar IEEE 802.11i. Sertifikasi produk (WPA2) yang secara resmi menggantikan wired equivalent privacy (WEP) dan fitur keamanan lain yang asli standar IEEE 802.11.
 Tujuan dari sertifikasi tersebut adalah untuk mendukung wajib tambahan fitur keamanan standar IEEE 802.11i yang tidak sudah termasuk untuk produk-produk yang mendukung WPA. Update WPA2/WPS IE yang mendukung WPA2 memiliki fitur seperti berikut ini:
 
 
