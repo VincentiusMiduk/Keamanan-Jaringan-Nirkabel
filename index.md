@@ -13,7 +13,6 @@
  - Self-Synchronizing
  - Computationally Efficient
  - Optional.
- Fungsi WEP - WEPini dapat digunakan untuk verifikasi identitas pada authenticating station. WEP dapat digunakan untuk data encryption.
  
 ### WPA (WI-FI Protected Access)
  WPA (bahasa Inggris: Wi-Fi Protected Access) adalah suatu sistem yang juga dapat diterapkan untuk mengamankan jaringan nirkabel. Metoda pengamanan dengan WPA ini diciptakan untuk melengkapi dari sistem yamg sebelumnya, yaitu WEP.  WPA didesain dan digunakan dengan alat tambahan lainnya, yaitu sebuah komputer pribadi (PC).
